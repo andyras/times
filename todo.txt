@@ -1,0 +1,1 @@
+# allow multiplying of whole line or arbitrary column by constant

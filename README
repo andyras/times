@@ -1,0 +1,1 @@
+'times' takes two arguments: a file name and a constant.  It will multiply the first entry in each line of the file by the constant.
